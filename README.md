@@ -55,8 +55,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/JBfANPO.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/xFj7dxc.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/tXBpOaP.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/RQLI6qe.png" height="50%  width="50%" alt="Disk Sanitization Steps"/>                                                                                                 
-                                                                   
-                                                                   lit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/RQLI6qe.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>                                                                    <img src="https://i.imgur.com/L0PvUNS.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/esp5Ku6.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ot0jZy6.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>                                                             
+<img src="https://i.imgur.com/LKwpKeh.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/Ybn14J7.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>                                        
+<img src="https://i.imgur.com/YL4A6Hv.png" height="50%  width="50%" alt="Disk Sanitization Steps"/>   
+ 
+lit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
