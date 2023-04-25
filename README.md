@@ -60,8 +60,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/Ot0jZy6.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>                                                             
 <img src="https://i.imgur.com/LKwpKeh.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
 <img src="https://i.imgur.com/Ybn14J7.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>                                        
-<img src="https://i.imgur.com/YL4A6Hv.png" height="50%  width="50%" alt="Disk Sanitization Steps"/>   
- 
+<img src="https://i.imgur.com/YL4A6Hv.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>   
+<img src="https://i.imgur.com/j2zQeIE.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kOq4kex.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+                                                                                                 
+                                                                                                 
+                                                                                                 
 lit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
