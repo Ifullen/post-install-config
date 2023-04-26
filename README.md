@@ -34,7 +34,7 @@ Step 2. Configure the Departments: </p>
 Step 3. Configure Teams: </p>
 * Admin Panel -> Agents -> Teams <p>
 * Let's create for testing purposes a New Team: "Level II Support"
-<img src"https://i.imgur.com/KNCiu9a.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KNCiu9a.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 Step 4. Allow anyone to create tickets: </p>
 * Admin Panel -> Settings -> Users -> Users Settings <p>
