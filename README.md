@@ -29,30 +29,30 @@ Step 2. Configure the Departments: </p>
  
 * Admin Panel -> Agents -> Departments <p>
 * Let's create for testing purposes the department: "System Administrators"
-<img src="https://i.imgur.com/XpDoBW6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZBecbFe.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 Step 3. Configure Teams: </p>
 * Admin Panel -> Agents -> Teams <p>
 * Let's create for testing purposes a New Team: "Level II Support"
-<img src="https://i.imgur.com/dteHRmL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src"https://i.imgur.com/KNCiu9a.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 Step 4. Allow anyone to create tickets: </p>
 * Admin Panel -> Settings -> Users -> Users Settings <p>
 * Registration Required: Require registration and login to create tickets
 <p>
-<img src="https://i.imgur.com/oAKkhUb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eozvUv9.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  Step 5. Configure Agents (Workers who will work on the tickets): </p>
 * Admin Panel -> Agents -> Add New Agent <p>
 * New Agent created: Jane Doe
 <p>
-<img src="https://i.imgur.com/M7pElz1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YsdcoIF.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br>
 Step 6. Configure Users Directory (customers): </p>
 * Agent Panel -> Users -> User Directory -> Add User <p>
-* New User created: Asia Asia <p>
-<img src="https://i.imgur.com/s0SIZs8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+* New User created: Karen Doe <p>
+<img src="https://i.imgur.com/y4Gz66X.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
  <br>
  Step 7. Configure SLA (Service Level Agreements): </p>
 * Admin Panel -> Manage -> SLA -> Add New SLA <p>
@@ -61,9 +61,10 @@ Sev-A (1 hour, 24/7)<p>
 Sev-B (4 hours, 24/7)<p>
 Sev-C (8 hours, business hours)<p>
 <p>
-<img src="https://i.imgur.com/vMtmeG5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rfiBoS5.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8CWXlFK.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
-Step8. Configure Help Topics: </p>
+Step 8. Configure Help Topics: </p>
 
 * Admin Panel -> Manage ->Help Topics -> Add New Help Topic <p>
 * For the purposes of testing create four topics:<p>
