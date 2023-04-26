@@ -21,7 +21,7 @@ Step 1. Configure Roles: </p>
 * Let's create for testing purposes the role: "Supreme Admin" and assign permissions
 <p>
 <img src="https://i.imgur.com/mWqgsjO.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/9BNByGM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/K9bwRkD.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p> 
